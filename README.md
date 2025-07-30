@@ -71,6 +71,6 @@ Yet, step-by-step, line-by-line — it came together! 🚀
 You can clone this repo and run it locally:
 
 ```bash
-git clone https://github.com/Mahendrashahh/amazon.git
+[git clone https://github.com/Mahendrashahh/amazon.git](https://github.com/Mahendrashahh/Amazon.git)
 cd amazon-clone
 open index.html
